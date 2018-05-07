@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\lap11\lap11\bin\Debug\lap11.exe.config
+C:\Users\mcyal\source\repos\lap11\lap11\bin\Debug\lap11.exe
+C:\Users\mcyal\source\repos\lap11\lap11\bin\Debug\lap11.pdb
+C:\Users\mcyal\source\repos\lap11\lap11\obj\Debug\lap11.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\lap11\lap11\obj\Debug\lap11.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\lap11\lap11\obj\Debug\lap11.exe
+C:\Users\mcyal\source\repos\lap11\lap11\obj\Debug\lap11.pdb
